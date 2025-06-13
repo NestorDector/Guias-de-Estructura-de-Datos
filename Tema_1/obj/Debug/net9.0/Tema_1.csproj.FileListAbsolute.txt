@@ -1,0 +1,15 @@
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\Tema_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\Tema_1.AssemblyInfoInputs.cache
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\Tema_1.AssemblyInfo.cs
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\Tema_1.csproj.CoreCompileInputs.cache
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\Tema_1.sourcelink.json
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\bin\Debug\net9.0\Tema_1.exe
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\bin\Debug\net9.0\Tema_1.deps.json
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\bin\Debug\net9.0\Tema_1.runtimeconfig.json
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\bin\Debug\net9.0\Tema_1.dll
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\bin\Debug\net9.0\Tema_1.pdb
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\Tema_1.dll
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\refint\Tema_1.dll
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\Tema_1.pdb
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\Tema_1.genruntimeconfig.cache
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\Tema_1\obj\Debug\net9.0\ref\Tema_1.dll
