@@ -35,4 +35,7 @@
 - Permiten centralizar la información.
 
 ### Programa
-[Programa del tema 1](Tema_1/Program.cs)
+Un programa de consola simple que defina una class o struct en C# (ej. Persona con propiedades como Nombre, Edad, Ciudad). El programa crearía varias instancias de esta clase/struct y las almacenaría en una lista en memoria (List<Persona>). Luego, iteraría sobre la lista para mostrar la información de cada "registro" en la consola. La explicación del programa se centraría en cómo cada instancia de la clase/struct representa un registro lógico y la lista completa representa una colección de estos registros, similar a un archivo a nivel conceptual, pero residiendo temporalmente en la memoria principal. Esto ilustra la estructura lógica de los datos antes de ser guardados permanentemente en un archivo.
+
+
+[Ver programa](Tema_1/Program.cs)
