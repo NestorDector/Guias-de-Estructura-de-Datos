@@ -20,7 +20,7 @@ namespace tema_2
             }
 
             //Escribir datos del arreglo en el archivo
-            File.WriteAllText(crearArchivo, string.Join("|", articulos));
+            File.WriteAllLines(crearArchivo, articulos);
 
             //Leer archivo
             string leerArchivo = File.ReadAllText(crearArchivo);
