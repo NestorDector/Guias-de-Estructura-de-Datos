@@ -13,4 +13,4 @@ Por lo tanto, para guardar datos de forma permanente recurrimos a archivos.
 ## Programa
 Un programa de consola que utilice la clase System.IO.File para crear un archivo vacío en una ubicación especificada en el disco (File.Create("miarchivo.txt")). El programa simplemente informaría que el archivo ha sido creado. El énfasis en el video sería mostrar que este archivo persiste en el sistema de archivos del sistema operativo después de que el programa C# termina su ejecución, demostrando la persistencia en un dispositivo de almacenamiento secundario, a diferencia de los datos en variables de memoria que desaparecen
 
-[ver programa]()
+[ver programa](tema_2/tema_2/Program.cs)
