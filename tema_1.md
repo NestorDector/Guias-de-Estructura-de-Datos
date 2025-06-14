@@ -1,5 +1,3 @@
-# Guía del primer parcial - Estructura de Datos
-
 ## Tema 1: Jerarquía de Datos
 
 ### Archivos/Ficheros
