@@ -1,0 +1,15 @@
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\bin\Debug\net9.0\tema_2.exe
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\bin\Debug\net9.0\tema_2.deps.json
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\bin\Debug\net9.0\tema_2.runtimeconfig.json
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\bin\Debug\net9.0\tema_2.dll
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\bin\Debug\net9.0\tema_2.pdb
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\tema_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\tema_2.AssemblyInfoInputs.cache
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\tema_2.AssemblyInfo.cs
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\tema_2.csproj.CoreCompileInputs.cache
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\tema_2.sourcelink.json
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\tema_2.dll
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\refint\tema_2.dll
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\tema_2.pdb
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\tema_2.genruntimeconfig.cache
+C:\Users\decto\Documents\personal_data\UNAH\2025\II PAC 2025\Estructura_de_datos\I_parcial\guia_videos\tema_2\tema_2\obj\Debug\net9.0\ref\tema_2.dll
